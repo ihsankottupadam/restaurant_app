@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "588187379888",
+    "project_id": "zertech-b06f5",
+    "storage_bucket": "zertech-b06f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588187379888:android:6c6ac83254e67c99d37375",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588187379888-cjhg4gd7v2ful7i080ss9njfq7oo8fe7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restaurant_app",
+            "certificate_hash": "499688e0cd5238d1964313c8fbffb23c9a4d53ce"
+          }
+        },
+        {
+          "client_id": "588187379888-1crj8v44o3c95oqt94nju4ihorfnshq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqus5IFuLvthFGGJWn6ESBLqC1clRsckg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588187379888-1crj8v44o3c95oqt94nju4ihorfnshq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
